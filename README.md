@@ -1,5 +1,6 @@
 # Grading-scores
 70-100 = int(input("Enter A: "))
+
 60-69 = int(input("Enter B: "))
 50-59 = int(input("Enter C: "))
 45-49 = int(input("Enter D: "))
