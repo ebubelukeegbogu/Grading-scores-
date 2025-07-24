@@ -2,10 +2,15 @@
 70-100 = int(input("Enter A: "))
 
 60-69 = int(input("Enter B: "))
+
 50-59 = int(input("Enter C: "))
+
 45-49 = int(input("Enter D: "))
+
 40-44 = int(input("Enter E: "))
+
 0-39 = int(input("Enter F: "))
+
 Procedure:
 Start
 Input student score
