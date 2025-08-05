@@ -1,4 +1,28 @@
-Algorithm: Grading-scores
+
+
+Algorithm: Grading system 
+
+Step 1: Start
+Step 2: Input score
+Step 3:
+  If score >= 70 and score <= 100 then
+    grade ← 'A'
+  Else if score >= 60 and score <= 69 then
+    grade ← 'B'
+  Else if score >= 50 and score <= 59 then
+    grade ← 'C'
+  Else if score >= 45 and score <= 49 then
+    grade ← 'D'
+  Else if score >= 40 and score <= 44 then
+    grade ← 'E'
+  Else if score >= 0 and score <= 39 then
+    grade ← 'F'
+  Else
+    grade ← 'Invalid score'
+Step 4: Output grade
+Step 5: End
+
+ Grading system(pseuodocode)
 
 1. Start
 2. Input student score
